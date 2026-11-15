@@ -2,7 +2,7 @@
 
 Full Stack Developer from Faisalabad, Pakistan, finished my BS in Software Engineering at The University of Faisalabad. I build web and mobile apps with Next.js, React Native and Supabase, and I'm looking for a junior or intern full-stack role.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saim-saleem-1321863a6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saleemsaim3@gmail.com)
 
 ## 🛠 Tech Stack
